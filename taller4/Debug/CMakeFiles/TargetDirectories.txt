@@ -1,0 +1,3 @@
+/home/lab/Documents/taller4/Debug/CMakeFiles/rebuild_cache.dir
+/home/lab/Documents/taller4/Debug/CMakeFiles/taller4.dir
+/home/lab/Documents/taller4/Debug/CMakeFiles/edit_cache.dir

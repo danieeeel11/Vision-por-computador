@@ -1,0 +1,3 @@
+/home/lab/Downloads/Parcial2/Debug/CMakeFiles/rebuild_cache.dir
+/home/lab/Downloads/Parcial2/Debug/CMakeFiles/Parcial2.dir
+/home/lab/Downloads/Parcial2/Debug/CMakeFiles/edit_cache.dir
